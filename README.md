@@ -3,6 +3,9 @@
 LINE bot of the API for sinatra/firebase.
 
 
+
+<img src="https://github.com/museseeu/line-bot-sinatra-firebase/blob/master/Screenshot.png" width="400">
+
 ## Installation ##
 
 execute:
