@@ -30,7 +30,9 @@ ENV['FIREBASE_AUTH_TOKEN']
 
 ```
 
-Firebase Database, please make sure you have schema data.
+Firebase Database
+
+please make sure you have schema data.
 
 `server + sid + /limit` 
 
@@ -55,7 +57,7 @@ Or
 $ ruby app.rb
 ```
 
-easy for you.
+easy for you, enjoy!
 
 ## Requirements
 
