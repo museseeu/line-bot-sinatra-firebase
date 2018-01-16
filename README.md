@@ -16,6 +16,8 @@ $ bundle install
 
 ## Configuration ##
 
+app.rb
+
 ```ruby
 
 # line bot env
