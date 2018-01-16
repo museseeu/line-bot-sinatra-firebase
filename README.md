@@ -42,6 +42,7 @@ easy for you.
 ## Requirements
 
 https://github.com/oscardelben/firebase-ruby
+
 https://github.com/line/line-bot-sdk-ruby
 
 See the official API reference documentation for more information.
