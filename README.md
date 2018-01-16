@@ -28,6 +28,19 @@ ENV['FIREBASE_AUTH_TOKEN']
 
 ```
 
+Firebase Database, please make sure you have schema data.
+
+`server' + sid + '/limit` 
+
+mapping schema: 
+
+```
+server001: {
+  limit: 21902
+}
+```
+
+
 ## How to start ##
 
 ```sh
