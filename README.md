@@ -30,7 +30,7 @@ ENV['FIREBASE_AUTH_TOKEN']
 
 Firebase Database, please make sure you have schema data.
 
-`server' + sid + '/limit` 
+`server + sid + /limit` 
 
 mapping schema: 
 
